@@ -18,7 +18,7 @@
       "#4f5660"
     ],
     "TEXT_NORMAL": [
-      "#000000",
+      "#ffffff",
       "#2e3338"
     ],
     "TEXT_MUTED": [
@@ -152,7 +152,7 @@
   },
   "background": {
     "blur": 0.1,
-    "url": "https://cdn.discordapp.com/attachments/947000084275548174/1045480825631817748/screen-1.png",
+    "url": "https://media.discordapp.net/attachments/947000084275548174/1048593886852939866/878F7B31-23D4-45B2-A2F6-638D5331C34F.jpg",
     "alpha": 1.0
   }
 }
